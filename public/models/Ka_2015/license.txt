@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ford Ka+/Figo
+* source:	https://sketchfab.com/3d-models/ford-kafigo-12e1435cb4324d89ad7a87906fc02ca8
+* author:	BHP3D (https://sketchfab.com/BHP3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ford Ka+/Figo" (https://sketchfab.com/3d-models/ford-kafigo-12e1435cb4324d89ad7a87906fc02ca8) by BHP3D (https://sketchfab.com/BHP3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

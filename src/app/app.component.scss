@@ -1,0 +1,23 @@
+.inputs {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  right: 150px;
+  top: 40%;
+  background: #efefef;
+  padding: 32px;
+  border-radius: 10px;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+#car-3d-container{
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 720px) {
+  .inputs {
+    top: 5px;
+    right: 20%;
+    opacity: 0.9;
+  }
+}

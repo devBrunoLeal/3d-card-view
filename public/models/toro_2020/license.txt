@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toro
+* source:	https://sketchfab.com/3d-models/toro-4f98b026a8a24446b7badc20d0faea9f
+* author:	douglasdtw (https://sketchfab.com/douglasdtw)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toro" (https://sketchfab.com/3d-models/toro-4f98b026a8a24446b7badc20d0faea9f) by douglasdtw (https://sketchfab.com/douglasdtw) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

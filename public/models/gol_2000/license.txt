@@ -1,0 +1,11 @@
+Model Information:
+* title:	1999 Volkswagen Gol 2000 GTi (G2)
+* source:	https://sketchfab.com/3d-models/1999-volkswagen-gol-2000-gti-g2-be772162e96746d0a4470e52dc7fbb1d
+* author:	Ezo (https://sketchfab.com/EzoYEAHH)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "1999 Volkswagen Gol 2000 GTi (G2)" (https://sketchfab.com/3d-models/1999-volkswagen-gol-2000-gti-g2-be772162e96746d0a4470e52dc7fbb1d) by Ezo (https://sketchfab.com/EzoYEAHH) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
